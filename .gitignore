@@ -7,6 +7,10 @@ __pycache__/
 /dataset
 /newPictures
 /orginalPictures
+ml/dataset
+ml/newPictures
+
+*log.csv
 
 
 # C extensions
@@ -133,3 +137,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+log.csv
+log.csv
+.vscode/settings.json
